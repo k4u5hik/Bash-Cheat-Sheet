@@ -1,6 +1,18 @@
 # Bash Cheat Sheet
 
  A cheat sheet for bash commands.
+ 
+ ## Comments
+
+```bash
+# This is a single line comment
+
+:'
+This is 
+a multi-line
+comment
+'
+```
 
 ## Command History
 
